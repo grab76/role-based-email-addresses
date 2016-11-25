@@ -184,6 +184,7 @@ module.exports = [
   'hello',
   'help',
   'helpdesk',
+  'helpfeedback',
   'hosting',
   'hostmaster',
   'hq',
